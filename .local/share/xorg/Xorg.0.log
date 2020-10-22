@@ -362,3 +362,6 @@ X Protocol Version 11, Revision 0
 [   425.899] (II) config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
 [   425.899] (II) No input driver specified, ignoring this device.
 [   425.900] (II) This device may have been added with another device file.
+[ 20479.250] (!!) vmware(0): New layout.
+[ 20479.364] (!!) vmware(0): 0: 0 0 800 600
+[ 20479.364] (!!) vmware(0): 

@@ -2,10 +2,13 @@
 <application-state>
   <context id="">
     <application id="org.gnome.seahorse.Application.desktop" score="1" last-seen="1603230806"/>
-    <application id="firefox.desktop" score="0" last-seen="1603231067"/>
-    <application id="gnome-control-center.desktop" score="11" last-seen="1603230896"/>
+    <application id="org.gnome.Nautilus.desktop" score="10" last-seen="1603394558"/>
     <application id="gnome-initial-setup.desktop" score="23" last-seen="1603230509"/>
-    <application id="org.gnome.Terminal.desktop" score="57" last-seen="1603231054"/>
+    <application id="firefox.desktop" score="77" last-seen="1603394998"/>
+    <application id="org.gnome.Terminal.desktop" score="23373" last-seen="1603395009"/>
+    <application id="yelp.desktop" score="0" last-seen="1603393548"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1603394553"/>
+    <application id="gnome-control-center.desktop" score="11" last-seen="1603389509"/>
     <application id="update-manager.desktop" score="0" last-seen="1603230514"/>
   </context>
 </application-state>
