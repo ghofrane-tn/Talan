@@ -1,0 +1,5 @@
+www.mozilla.org:HSTS	0	18555	1634767214135,1,0,2
+incoming.telemetry.mozilla.org:HSTS	0	18555	1618999209496,1,0,2
+mozilla.org:HSTS	0	18555	1634767216264,1,0,2
+www.google.com:HSTS	0	18555	1634767223724,1,0,2
+ogs.google.com:HSTS	0	18555	1634767225653,1,0,2
